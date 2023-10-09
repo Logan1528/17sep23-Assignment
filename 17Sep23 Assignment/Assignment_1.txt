@@ -1,0 +1,23 @@
+1 List out the features of HTML5 ?
+
+* Semantic Elements
+	A semantic element clearly describes its meaning to both the browser and the developer.
+Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
+Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
+
+* Audio and Video Support
+	The <audio> tag is used to embed sound content in a document, such as music or other audio streams.&
+	The <video> tag is used to embed video content in a document, such as a movie clip or other video streams.
+
+* Canvas Elements
+	The HTML <canvas> element is used to draw graphics, on the fly, via JavaScript.
+
+* Responsive Images
+	Responsive images with HTML5 provide tools to markup image elements that can 
+adapt to any user's display. Two of the tools it brings are the srcset and sizes <img> tag attributes.
+
+* Form Enhancements
+	The HTML <form> Attribute is used to specify the HTTP method used to send data while submitting the form.
+we can collect data from the customer.
+
+
